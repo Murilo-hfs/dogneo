@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1038938051509",
+    "firebase_url": "https://appdog-5bfab.firebaseio.com",
+    "project_id": "appdog-5bfab",
+    "storage_bucket": "appdog-5bfab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038938051509:android:a804fcce08f581bcf1fffc",
+        "android_client_info": {
+          "package_name": "com.example.dogneo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038938051509-fj22sek87vqlufi1q4nalfcg9g8un9ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF_9tsRv8aUMFy5x5OdMm2R0ivah7TABA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038938051509-fj22sek87vqlufi1q4nalfcg9g8un9ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038938051509:android:d04ac2e9321a1962f1fffc",
+        "android_client_info": {
+          "package_name": "murilo.com.dogneo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038938051509-59bt63t6e4qg6n173s7jr7uhan9om31b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "murilo.com.dogneo",
+            "certificate_hash": "b78b2b8990e4fcafcf17d42a4a683c93e9d18330"
+          }
+        },
+        {
+          "client_id": "1038938051509-fj22sek87vqlufi1q4nalfcg9g8un9ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF_9tsRv8aUMFy5x5OdMm2R0ivah7TABA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038938051509-fj22sek87vqlufi1q4nalfcg9g8un9ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
